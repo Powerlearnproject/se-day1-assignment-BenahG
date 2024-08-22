@@ -61,7 +61,7 @@ Quality control measures such as code reviews, automated testing, and continuous
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompts engineering refers to the methodical fashion of formatting text inputs or queries to interact with AI systems such as GPT, to get the intended outcomes. It consists in setting precise and concrete requests, giving context where it is needed, and trying various structures to improve the reply of the AI. This brings into focus the process of prompt engineering as a way of increasing the effectiveness of the models, minimizing the errors and biases, and also improving the efficiency of the interactions. For the same reason, it also enhances the user experience and, at the same time, helps to discover new areas of AI’s application. Concerning the evolution of AI and its integration into various industries, prompt engineering will be indispensable for natural and adequately effective AI interaction.
+prompt engineering is all about crafting your questions or instructions in a way that helps get the best responses from your robot or AI assistant
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
